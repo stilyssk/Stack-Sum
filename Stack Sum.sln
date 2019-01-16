@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack Sum", "Stack Sum\Stack Sum.csproj", "{75A9E7B1-807D-4FF2-A26F-52B5C7662CB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple Calculator", "Simple Calculator\Simple Calculator.csproj", "{B910AF07-19B2-4138-9335-2FF6597A5CA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75A9E7B1-807D-4FF2-A26F-52B5C7662CB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75A9E7B1-807D-4FF2-A26F-52B5C7662CB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75A9E7B1-807D-4FF2-A26F-52B5C7662CB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75A9E7B1-807D-4FF2-A26F-52B5C7662CB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B910AF07-19B2-4138-9335-2FF6597A5CA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B910AF07-19B2-4138-9335-2FF6597A5CA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B910AF07-19B2-4138-9335-2FF6597A5CA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B910AF07-19B2-4138-9335-2FF6597A5CA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0837FC7C-95D0-4CDF-B0CF-C197C99858BE}
+	EndGlobalSection
+EndGlobal
